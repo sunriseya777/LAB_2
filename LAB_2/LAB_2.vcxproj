@@ -140,10 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CStr.cpp" />
+    <ClCompile Include="CStrArray.cpp" />
     <ClCompile Include="LAB_2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CStr.h" />
+    <ClInclude Include="CStrArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
